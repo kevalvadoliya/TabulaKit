@@ -19,7 +19,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/ngtk/LoggerKit.git", .branch("master")),
-        .package(url: "https://github.com/arquivei/foundationkit", .branch("master")),
+        .package(url: "https://github.com/pvieito/FoundationKit.git", .branch("master")),
         .package(url: "https://github.com/pvieito/PythonKit", .branch("master")),
         .package(url: "https://github.com/apple/swift-argument-parser", from: "0.0.1"),
     ],
